@@ -1,3 +1,13 @@
 # Sample
 
-This is a new sample git
+This git
+
+first commit
+
+
+second commit
+
+
+
+
+last one
